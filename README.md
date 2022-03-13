@@ -3,7 +3,6 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 💼 &nbsp; Engineering Graduate.
 - 🤔 &nbsp; Trying to figure out Object Orientatred Programing.
 - 🎓 &nbsp; Studying to become a Mobile Applications developer.
 - ✍️ &nbsp; Pursuing Graphic Design to learn more about the Design side of Mobile Applications.
